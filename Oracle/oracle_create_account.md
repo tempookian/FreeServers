@@ -11,7 +11,7 @@
 - کارت اعتباری معتبر
 
 ### مراحل
-1. به سایت [Oracle Free Tier]([url](https://www.oracle.com/cloud/free/) رفته و بر روی ``Start for Free`` کلیک کنید:
+1. به سایت [Oracle Free Tier](https://www.oracle.com/cloud/free/) رفته و بر روی ``Start for Free`` کلیک کنید:
 
 ![image](https://github.com/tempookian/FreeServers/blob/master/Oracle/assets/1.png?raw=true)
 
